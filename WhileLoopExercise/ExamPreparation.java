@@ -1,4 +1,4 @@
-package JavaBasics.WhileLoopExercise;
+package JavaBasics.whileLoopExercise;
 
 import java.util.Scanner;
 

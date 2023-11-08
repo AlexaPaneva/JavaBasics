@@ -1,4 +1,4 @@
-package JavaBasics.PreExam;
+package JavaBasics.preExam;
 
 import java.util.Scanner;
 public class SumAndProduct {

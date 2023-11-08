@@ -1,4 +1,4 @@
-package JavaBasics.FirstStepsExercise;
+package JavaBasics.firstStepsExercise;
 
 import java.util.Scanner;
 
