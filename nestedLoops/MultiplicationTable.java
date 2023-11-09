@@ -1,4 +1,4 @@
-package JavaBasics.nestedLoops;
+package javaBasics.nestedLoops;
 
 public class MultiplicationTable {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package JavaBasics.forLoopExercise;
+package javaBasics.forLoopExercise;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package JavaBasics.nestedLoopsExercise;
+package javaBasics.nestedLoopsExercise;
 
 import java.util.Scanner;
 

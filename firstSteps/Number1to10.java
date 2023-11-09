@@ -1,4 +1,4 @@
-package JavaBasics.firstSteps;
+package javaBasics.firstSteps;
 
 public class Number1to10 {
     public static void main(String[] args) {

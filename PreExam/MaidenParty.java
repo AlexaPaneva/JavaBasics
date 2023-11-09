@@ -1,4 +1,4 @@
-package JavaBasics.preExam;
+package javaBasics.preExam;
 
 import java.util.Scanner;
 

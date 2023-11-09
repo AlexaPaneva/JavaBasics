@@ -1,4 +1,4 @@
-package JavaBasics.forLoop;
+package javaBasics.forLoop;
 
 public class NumbersFrom1To100 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package JavaBasics.forLoopExercise;
+package javaBasics.forLoopExercise;
 
 public class NumbersEndingIn7 {
     public static void main(String[] args) {

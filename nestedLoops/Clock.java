@@ -1,4 +1,4 @@
-package JavaBasics.nestedLoops;
+package javaBasics.nestedLoops;
 
 public class Clock {
     public static void main(String[] args) {

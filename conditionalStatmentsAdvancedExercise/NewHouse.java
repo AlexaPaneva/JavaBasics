@@ -1,4 +1,4 @@
-package JavaBasics.conditionalStatmentsAdvancedExercise;
+package javaBasics.conditionalStatmentsAdvancedExercise;
 
 import java.util.Scanner;
 
