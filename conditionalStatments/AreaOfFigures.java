@@ -2,6 +2,7 @@ package javaBasics.conditionalStatments;
 
 import java.util.Scanner;
 
+
 public class AreaOfFigures {
     public static void main(String[] args) {
 
